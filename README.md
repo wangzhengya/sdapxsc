@@ -1,3 +1,20 @@
-# My Awesome Book
+# 山东航空外航站培训管理员手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+此系统基于Moodle定制而成，Moodle是一个自由的开源软件 （在GNU 公共许可协议下）。因此此系统不存在版权的问题，同时可以保证系统的安全和性能能够满足外航站培训需求，还能有较好的可拓展性来满足以后新的需求的提出。
+
+网址：http://sdapx.com
+
+IP地址：http://120.55.49.2
+
+服务器服务商：阿里云
+
+计费模式：服务器按照按年收费，带宽流量：按照流量收费
+
+管理员信息等，因为安全原因通过其他渠道提供
+
+
+
+
+

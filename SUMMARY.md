@@ -12,4 +12,6 @@
 * [添加课件](tian-jia-ke-jian.md)
 * [题库管理](ti-ku-guan-li.md)
 * [添加测试](tian-jia-ce-shi.md)
+* [课程成员](tian-jia-ke-cheng-cheng-yuan.md)
+* [课程成绩](ke-cheng-cheng-ji.md)
 

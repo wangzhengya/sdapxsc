@@ -14,4 +14,7 @@
 * [添加测试](tian-jia-ce-shi.md)
 * [课程成员](tian-jia-ke-cheng-cheng-yuan.md)
 * [课程成绩](ke-cheng-cheng-ji.md)
+* [课程备份](ke-cheng-bei-fen.md)
+* 课程复制
+* 学习记录查询
 

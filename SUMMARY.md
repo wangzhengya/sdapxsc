@@ -9,7 +9,7 @@
 * [课程管理](xin-jian-ke-cheng.md)
 * [新课程](xin-ke-cheng.md)
 * [编辑课程内容](bian-ji-ke-cheng-nei-rong.md)
-* 添加课件
+* [添加课件](tian-jia-ke-jian.md)
 * 题库管理
 * 添加测试
 
